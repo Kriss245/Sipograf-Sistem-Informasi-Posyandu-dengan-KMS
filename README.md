@@ -15,17 +15,19 @@
 
 1. Clone repositori ini ke komputer kamu.
 
-2. Buat database MySQL baru dengan nama `dbsipograf`.
+2. Install XAMPP atau software MySQL Server lainnya.
 
-3. Import file `dbsipograf.sql` yang tersedia di folder database/ ke dalam database tersebut melalui phpMyAdmin atau command line.
+3. Buat database MySQL baru dengan nama `dbsipograf`.
 
-4. Edit konfigurasi koneksi database di file config.py sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
+4. Import file `dbsipograf.sql` yang tersedia tersebut melalui phpMyAdmin.
 
-5. Install semua dependensi Python menggunakan perintah pip install -r requirements.txt.
+5. Edit konfigurasi koneksi database di file config.py sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
 
-6. Jalankan aplikasi dengan menjalankan file main.py.
+6. Install semua dependensi Python menggunakan perintah pip install -r requirements.txt.
 
-7. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
+7. Jalankan aplikasi dengan menjalankan file main.py.
+
+8. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
    
 
 ## 💻 Contoh Tampilan Antarmuka
