@@ -15,9 +15,9 @@
 
 1. Clone repositori ini ke komputer kamu.
 
-2. Buat database MySQL baru dengan nama sipograf_db.
+2. Buat database MySQL baru dengan nama `dbsipograf`.
 
-3. Import file sipograf_db.sql yang tersedia di folder database/ ke dalam database tersebut melalui phpMyAdmin atau command line.
+3. Import file `dbsipograf.sql` yang tersedia di folder database/ ke dalam database tersebut melalui phpMyAdmin atau command line.
 
 4. Edit konfigurasi koneksi database di file config.py sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
 
@@ -26,6 +26,7 @@
 6. Jalankan aplikasi dengan menjalankan file main.py.
 
 7. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
+   
 
 ## 💻 Contoh Tampilan Antarmuka
 
