@@ -27,7 +27,10 @@
 
 7. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
 
+## 📲 Contoh Tampilan Antarmuka
+
 <p align="center"><img src="https://imgur.com/HTnIUB4.png" width="500"></p>
+
 
 ## 📂 Struktur Proyek 
 
