@@ -7,7 +7,7 @@
 
 ## 🛠 Teknologi yang Digunakan
 
-- **Python** untuk antarmuka pengguna
+- **PHP** untuk antarmuka pengguna
 - **MySQL** sebagai basis data
 
 
@@ -47,7 +47,7 @@
 
 - **`css`** – Berisi file stylesheet untuk mengatur tampilan antarmuka aplikasi
   
--**`penimbangan`** – Berisi data atau logika aplikasi terkait proses penimbangan balita
+- **`penimbangan`** – Berisi data atau logika aplikasi terkait proses penimbangan balita
 
 ## ⚙️ Fitur Utama
 - Login petugas Posyandu
