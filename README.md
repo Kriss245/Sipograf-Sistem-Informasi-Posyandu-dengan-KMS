@@ -21,7 +21,7 @@
 
 4. Import file `dbsipograf.sql` yang tersedia tersebut melalui phpMyAdmin.
 
-5. Edit konfigurasi koneksi database di file config.py sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
+5. Edit konfigurasi koneksi database di file `login.php` sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
 
 6. Install semua dependensi Python menggunakan perintah pip install -r requirements.txt.
 
