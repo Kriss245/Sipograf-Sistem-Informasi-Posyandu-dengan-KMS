@@ -23,7 +23,7 @@
 
 5. Edit konfigurasi koneksi database di file `login.php` sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
 
-6. Jalankan aplikasi dengan ketik `http://localhost:8000` di terminal.
+6. Jalankan aplikasi dengan ketik `php -S localhost:8080` di terminal (untuk port 8080, harap sesuaikan milik anda sendiri).
 
 7. Setelah aplikasi terbuka, login sebagai petugas `admin` dan `Abc123` kemudian mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
    
