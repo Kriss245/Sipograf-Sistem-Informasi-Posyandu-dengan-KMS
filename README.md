@@ -23,11 +23,9 @@
 
 5. Edit konfigurasi koneksi database di file `login.php` sesuai dengan pengaturan MySQL kamu (host, user, password, dan nama database).
 
-6. Install semua dependensi Python menggunakan perintah pip install -r requirements.txt.
+6. Jalankan aplikasi dengan ketik `http://localhost:8000` di terminal.
 
-7. Jalankan aplikasi dengan menjalankan file main.py.
-
-8. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
+7. Setelah aplikasi terbuka, login sebagai petugas `admin` dan `Abc123` kemudian mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
    
 
 ## 💻 Contoh Tampilan Antarmuka
